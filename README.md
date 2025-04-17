@@ -17,7 +17,5 @@ I'm Divyesh Boddu, pursuing a B.E. in Artificial Intelligence and Data Science a
 🎯 Goals for 2025
 
 Contribute to open-source Machine Learning projects 🌐
-
 Write and publish articles on Large Language Models 📝
-
 Build and deploy a Large Language Model 🚀

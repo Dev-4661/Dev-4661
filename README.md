@@ -2,7 +2,7 @@ I'm Divyesh Boddu, pursuing a B.E. in Artificial Intelligence and Data Science a
 
 🌍 I'm based in Mumbai
 
-🖥️ See my portfolio at MyProtfolio
+🖥️ can get info about me /Aboutme.py
 
 ✉️ You can contact me at divyeshboddu2003@gmail.com
 

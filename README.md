@@ -15,7 +15,7 @@ I'm Divyesh Boddu, pursuing a B.E. in Artificial Intelligence and Data Science a
 ⚡ I enjoy watching anime for relaxation and inspiration.
 
 
-🎯 Goals for 2025
+🎯 Goals for 2026
 
 Contribute to open-source Machine Learning projects 🌐
 
